@@ -1,6 +1,7 @@
 ### Table of Contents
 
 1. [First project](https://github.com/TrublMan/MarkdeVilliers/new/main#first-project-name)
+2. [Second project](https://github.com/TrublMan/MarkdeVilliers/new/main#second-project-name)
 
 # First project name
 Some information about this project
@@ -8,4 +9,13 @@ Some information about this project
 # Some code that is used in this project
 ```
 
-[***Visit the repository here for more***](https://github.com/TrublMan/GitGitHubMasterlcass)
+[***Visit the repository here for more about this project***](https://github.com/TrublMan/GitGitHubMasterlcass)
+
+# Second project name
+Some information about this project
+```python
+# Some code that is used in this project
+```
+
+[***Visit the repository here for more about this project***](https://github.com/TrublMan/GitGitHubMasterlcass)
+
