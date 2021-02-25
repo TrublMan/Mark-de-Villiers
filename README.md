@@ -1,6 +1,6 @@
 ### Table of Contents
 
-1. [First project](https://github.com/TrublMan/MarkdeVilliers/new/main#first-project-name)
+1. [First project](https://github.com/TrublMan/Mark-de-Villiers#first-project-name)
 2. [Second project](https://github.com/TrublMan/Mark-de-Villiers#second-project-name)
 
 # First project name
