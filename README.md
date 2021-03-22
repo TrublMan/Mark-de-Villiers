@@ -188,17 +188,9 @@ Besides being an excellent English Second Language teacher, have also been respo
 
 ## Languages
 
-### English 
-
-Native speaker
-
-### Mandarin Chinese 
-
-Intermediate 
-
-### Afrikaans
-
-Bilingual
+| English        | Mandarin Chinese | Afrikaans |
+|---             |---               |---        |
+| Native Speaker | Intermediate     | Bilingual |
 
 ---
 
