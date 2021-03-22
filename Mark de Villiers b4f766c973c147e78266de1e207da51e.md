@@ -8,17 +8,17 @@
 
 📧 mfrdevilliers@gmail.com
 
-🐦 @mfrdevilliersHi
+🐦 @mfrdevilliers
 
 🔗[LinkedIn](https://www.linkedin.com/in/mfrdev/)
 
-🏘️ I live in Luodong, an easy commute to Taipei, Taiwan(ROC) 🇹🇼
+🏘️ I live in Luodong, an easy commute to Taipei, Taiwan(ROC)
 
 ---
 
 # Current and Recent Design Projects
 
-[Piano Player - a Mechatronics Design](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+[Piano Player - a Mechatronics Design](Piano Player - a Mechatronics Design e9eb46d845854e729e08940983d9067d.md)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Freelance Mechatronics Design Engineer
 
-- Edison American School*, Luodong, Yilan County, Taiwan* 🇹🇼🇿🇦
+- Edison American School*, Luodong, Yilan County, Taiwan*
 
     *January 2019 - January 2020*
 
@@ -34,7 +34,7 @@
 
 ## Manager and Administrator
 
-- Edison American School*, Luodong, Yilan County, Taiwan* 🇹🇼
+- Edison American School*, Luodong, Yilan County, Taiwan*
 
     *September 2016 - Present*
 
@@ -42,7 +42,7 @@
 
 ## English Teacher
 
-- Edison American School*, Luodong, Yilan County, Taiwan* 🇹🇼
+- Edison American School*, Luodong, Yilan County, Taiwan*
 
     *December 2014 - July 2018*
 
@@ -50,7 +50,7 @@
 
 ## English Teacher
 
-- Hess English School*, Dajia, Taichung County, Taiwan* 🇹🇼
+- Hess English School*, Dajia, Taichung County, Taiwan*
 
     March *2014 - October 2014*
 
@@ -58,7 +58,7 @@
 
 ## Research Engineer
 
-- [Council for Scientific and Industrial Research](https://www.csir.co.za/future-production-manufacturing)*, Pretoria, Gauteng Province, South Africa* 🇿🇦
+- [Council for Scientific and Industrial Research](https://www.csir.co.za/future-production-manufacturing)*, Pretoria, Gauteng Province, South Africa*
 
     January *2007 - Feb 2013*
 
@@ -86,7 +86,7 @@
 
 ## Electronics Engineer
 
-- [Orica Mining Services](http://www.oricaminingservices.com/)*, Cape Town, Western Cape Province, South Africa* 🇿🇦
+- [Orica Mining Services](http://www.oricaminingservices.com/)*, Cape Town, Western Cape Province, South Africa*
 
     August *2004 - April 2006*
 
@@ -108,7 +108,7 @@
 
 ## Junior Electronics Engineer
 
-- [Sasol](https://www.sasol.com/) Mining Initiators**, Cape Town, Western Cape Province, South Africa* 🇿🇦
+- [Sasol](https://www.sasol.com/) Mining Initiators**, Cape Town, Western Cape Province, South Africa*
 
     February *2002 - July 2004*
 
@@ -188,15 +188,15 @@ Besides being an excellent English Second Language teacher, have also been respo
 
 ## Languages
 
-### English 🇬🇧🇿🇦
+### English 
 
 Native speaker
 
-### Mandarin Chinese 🇹🇼 🇨🇳
+### Mandarin Chinese 
 
 Intermediate 
 
-### Afrikaans 🇿🇦
+### Afrikaans
 
 Bilingual
 
