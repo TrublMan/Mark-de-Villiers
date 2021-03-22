@@ -140,17 +140,17 @@
 
 Experienced in the use of Altium Designer and Kicad. Good analogue electronics design experience. Worked on many PCB designs using onboard Atmel microcontrollers, including testers for the electronic detonator industry,  various interfaces for robotics projects and a resonant charging circuits for a piezoelectric actuators. 
 
-[Servo Controller PCB Design](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+[Servo Controller PCB Design](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
 
 ### Mechanical Design 🦾
 
 Experienced in the use of Solidworks and Fusion 360. Used rapid prototyping techniques such as 3D polymer printing, laser sintering and laser cutting. Designed automated piano player. Designed omnidirectional mobile service robot.
 
-[Piano Player Mechanical Design](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+[Piano Player Mechanical Design](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
 
 ### Embedded Software Design 💾
 
-Wrote C++ embedded software for microcontrollers used on various boards, most recently on the [🎹Piano Player Project.](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+Wrote C++ embedded software for microcontrollers used on various boards, most recently on the [🎹Piano Player Project.](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
 
 ### Software Design 🖥️
 
@@ -204,21 +204,21 @@ Bilingual
 
 # 📚 Education
 
-## Master**'s Degree in Mechanical Engineering (Mechatronics)**
+## **Master's Degree in Mechanical Engineering (Mechatronics)**
 
 University of Kwa Zulu Natal, Durban, South Africa 🇿🇦
 
 *2007-2010* 
 
-[MSc Degree Certificate.jpg](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/MSc_Degree_Certificate.jpg)
+[MSc Degree Certificate.jpg](MSc_Degree_Certificate.jpg)
 
-## Bachelors**'s Degree in Mechatronics Engineering**
+## **Bachelor's Degree in Mechatronics Engineering**
 
 University of Cape Town, Cape Town, South Africa 🇿🇦
 
 *1998-2001* 
 
-[BSc Degree Certificate.jpg](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/BSc_Degree_Certificate.jpg)
+[BSc Degree Certificate.jpg](BSc_Degree_Certificate.jpg)
 
 ## 中文 Course in Contemporary Chinese
 
@@ -248,10 +248,8 @@ Fo Guang University, Yilan, Taiwan 🇹🇼
 
 > H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers, S.S. Ray, “Effect of nanoclay on optical properties of PLA/clay composite films” Polymer Testing, Volume 36, June 2014, Pages 24–31
 
-![Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Untitled.png](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Untitled.png)
-
 ## Work Related Hobbies
 
-[Mechanical Design and construction of a Kitchen Island Table](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Mechanical%20Design%20and%20construction%20of%20a%20Kitchen%20Is%20f45d9be80916421d9b5ddd344f6a5d21.md)
+[Mechanical Design and construction of a Kitchen Island Table](https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/b840378d217f71ca3bf984685961395e8dd78b5c/Mechanical%20Design%20and%20construction%20of%20a%20Kitchen%20Is%20f45d9be80916421d9b5ddd344f6a5d21.md)
 
-[References](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/References%20f186c24dd251415386d75d6f1032cb0a.csv)
+[References](https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/b840378d217f71ca3bf984685961395e8dd78b5c/References%20f186c24dd251415386d75d6f1032cb0a.csv)
