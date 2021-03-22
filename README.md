@@ -223,25 +223,29 @@ Fo Guang University, Yilan, Taiwan 🇹🇼
 # Publications
 
 ### Journal Papers
-
-> M. F. R. de Villiers and N. Tlale, “Development of a Control Model for a Four Wheel Mecanum Vehicle,” Journal of Dynamic Systems, Measurement and Control, vol. 134, pp. 011007-1 - 6, 2012.
+M. F. R. de Villiers and N. Tlale, “Development of a Control Model for a Four Wheel Mecanum Vehicle,” Journal of Dynamic Systems, Measurement and Control, vol. 134, pp. 011007-1 - 6, 2012.
 
 ### Conference Papers
+M. de Villiers and G. Bright, “Development of a Control Model for a Four Wheel Mecanum Vehicle” *25th International Conference of CAD/CAM, Robotics & Factories of the Future*, Pretoria, RSA, 2010
 
-> M. de Villiers and G. Bright, “Development of a Control Model for a Four Wheel Mecanum Vehicle” *25th International Conference of CAD/CAM, Robotics & Factories of the Future*, Pretoria, RSA, 2010
-
-> N. Tlale and M. de Villiers, “Kinematics and dynamics modelling of a Mecanum wheeled mobile platform” *15th International Conference on Mechatronics and Machine Vision in Practice, M2VIP’08*, Auckland: 2008, pp 657-662
+N. Tlale and M. de Villiers, “Kinematics and dynamics modelling of a Mecanum wheeled mobile platform” *15th International Conference on Mechatronics and Machine Vision in Practice, M2VIP’08*, Auckland: 2008, pp 657-662
 
 ### Conference Posters
-
-> E. Williams, P. Loveday, M. de Villiers, “Development of an Efficient Piezoelectric Inchworm Motor” *International Conference and Exhibition on New Actuators and Drive Systems, Actuator 10,* Bremen, Germany:2010
+E. Williams, P. Loveday, M. de Villiers, “Development of an Efficient Piezoelectric Inchworm Motor” *International Conference and Exhibition on New Actuators and Drive Systems, Actuator 10,* Bremen, Germany:2010
 
 ### Co-Authored Papers
-
-> H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers, S.S. Ray, “Effect of nanoclay on optical properties of PLA/clay composite films” Polymer Testing, Volume 36, June 2014, Pages 24–31
+H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers, S.S. Ray, “Effect of nanoclay on optical properties of PLA/clay composite films” Polymer Testing, Volume 36, June 2014, Pages 24–31
 
 ## Work Related Hobbies
 
 [Mechanical Design and construction of a Kitchen Island Table](https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/b840378d217f71ca3bf984685961395e8dd78b5c/Mechanical%20Design%20and%20construction%20of%20a%20Kitchen%20Is%20f45d9be80916421d9b5ddd344f6a5d21.md)
 
-[References](https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/b840378d217f71ca3bf984685961395e8dd78b5c/References%20f186c24dd251415386d75d6f1032cb0a.csv)
+## References
+|Name|Affiliation|Email|Phone|
+|---|---|---|---|
+|Mr Chris de Wet|"Walter Kentridge Studios "|chriswaldo@wkentridge.com|+27 72 922 8588|
+|Mr Peter Bosscha|"CSIR South Africa "|pbosscha@csir.co.za|+27 83 460 8523|
+|Dr Kevin Land|"University of Pretoria South Africa"|kevin.land202@gmail.com|+27 83 290 6376|
+|Mr W Piel|"Orica Mining Services Europe "|Walter.piel@orica.com||
+|Assc Prof Szu-Hsien Yu|Taiwan National Yilan University 國立宜蘭大學|shyu0918@gmail.com|+88639317213|
+
