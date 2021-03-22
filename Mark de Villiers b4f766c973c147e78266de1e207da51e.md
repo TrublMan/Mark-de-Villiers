@@ -18,7 +18,7 @@
 
 # Current and Recent Design Projects
 
-[Piano Player - a Mechatronics Design](Piano Player - a Mechatronics Design e9eb46d845854e729e08940983d9067d.md)
+[Piano Player - a Mechatronics Design](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
 
 ---
 
@@ -26,15 +26,15 @@
 
 ## Freelance Mechatronics Design Engineer
 
-- Edison American School*, Luodong, Yilan County, Taiwan*
+- William Kentridge Studios, *Johannesburg, South Africa (Remote Taiwan)*
 
     *January 2019 - January 2020*
 
-    Design and construction of a prototype piano playing robot for a possible future exhibition by the client. See: [Piano Player](Mark%20de%20Villiers%20b4f766c973c147e78266de1e207da51e/Mechanical%20Design%20and%20construction%20of%20a%20Kitchen%20Is%20f45d9be80916421d9b5ddd344f6a5d21.md)
+    Design and construction of a prototype piano playing robot for a possible future exhibition by the client. See: [Piano Player](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
 
 ## Manager and Administrator
 
-- Edison American School*, Luodong, Yilan County, Taiwan*
+- Edison American School, *Luodong, Yilan County, Taiwan*
 
     *September 2016 - Present*
 
@@ -42,7 +42,7 @@
 
 ## English Teacher
 
-- Edison American School*, Luodong, Yilan County, Taiwan*
+- Edison American School, *Luodong, Yilan County, Taiwan*
 
     *December 2014 - July 2018*
 
@@ -50,7 +50,7 @@
 
 ## English Teacher
 
-- Hess English School*, Dajia, Taichung County, Taiwan*
+- Hess English School (何嘉仁), *Dajia, Taichung County, Taiwan*
 
     March *2014 - October 2014*
 
@@ -58,7 +58,7 @@
 
 ## Research Engineer
 
-- [Council for Scientific and Industrial Research](https://www.csir.co.za/future-production-manufacturing)*, Pretoria, Gauteng Province, South Africa*
+- [Council for Scientific and Industrial Research](https://www.csir.co.za/future-production-manufacturing), *Pretoria, Gauteng Province, South Africa*
 
     January *2007 - Feb 2013*
 
@@ -86,7 +86,7 @@
 
 ## Electronics Engineer
 
-- [Orica Mining Services](http://www.oricaminingservices.com/)*, Cape Town, Western Cape Province, South Africa*
+- [Orica Mining Services](http://www.oricaminingservices.com/), *Cape Town, Western Cape Province, South Africa*
 
     August *2004 - April 2006*
 
@@ -108,7 +108,7 @@
 
 ## Junior Electronics Engineer
 
-- [Sasol](https://www.sasol.com/) Mining Initiators**, Cape Town, Western Cape Province, South Africa*
+- [Sasol](https://www.sasol.com/) Mining Initiators*, *Cape Town, Western Cape Province, South Africa*
 
     February *2002 - July 2004*
 
@@ -122,7 +122,7 @@
 
     Detonator timing testing in live and simulated blasts
 
-    * Sasol Mining Initiators, a division of Sasol, designed and produced electronic detonators and supporting electronic systems for mining operations. The division was bought by Orica Mining Services in 2004.
+    \* Sasol Mining Initiators, a division of Sasol, designed and produced electronic detonators and supporting electronic systems for mining operations. The division was bought by Orica Mining Services in 2004.
 
 - Achieved while at Orica
 
