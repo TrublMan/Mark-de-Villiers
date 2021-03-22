@@ -238,7 +238,7 @@ H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers,
 
 ## Work Related Hobbies
 
-[Mechanical Design and construction of a Kitchen Island Table](https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/b840378d217f71ca3bf984685961395e8dd78b5c/Mechanical%20Design%20and%20construction%20of%20a%20Kitchen%20Is%20f45d9be80916421d9b5ddd344f6a5d21.md)
+[Mechanical Design and construction of a Kitchen Island Table](https://mark-fr-dev.github.io/Japanese_table/)
 
 ## References
 |Name|Affiliation|Email|Phone|
