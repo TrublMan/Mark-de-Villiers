@@ -1,8 +1,13 @@
 # Mark de Villiers
 
+> This page is a work in progress, if some links don't work please go to http://bit.ly/3sfvUKK for another version hosted on notion.so.
+
 > I'm a mechatronics engineer based in Taiwan with over 10 years of experience in research engineering and development roles. I have more recently been involved in education in Taiwan.
 
 > I am dedicated and hard working. I enjoy working as a team leader or as a team member. I also like to plan and execute projects on my own.
+
+
+<img src="https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/99a0d5f366a24000de19d0fbbaf89f5fe2111933/Mark/Mechanical/Japanese_table20201110_0067.jpg" class="img-responsive" alt="" width=500>
 
 # ☎️ Contact information
 
