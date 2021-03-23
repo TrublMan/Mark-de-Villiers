@@ -246,6 +246,7 @@ H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers,
 [Mechanical Design and construction of a Kitchen Island Table](https://mark-fr-dev.github.io/Japanese-table/)
 
 ## References
+
 | Name | Affiliation | Email | Phone |
 |--- |---        |---  |---  |
 | Mr Chris de Wet | Walter Kentridge Studios, South Africa | chriswaldo@wkentridge.com | +27 72 922 8588 |
