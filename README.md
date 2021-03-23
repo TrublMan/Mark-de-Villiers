@@ -35,7 +35,7 @@
 
     *January 2019 - January 2020*
 
-    Design and construction of a prototype piano playing robot for a possible future exhibition by the client. See: [Piano Player](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+    Design and construction of a prototype piano playing robot for a possible future exhibition by the client. See: [Piano Player](https://mark-fr-dev.github.io/Player-piano/)
 
 ## Manager and Administrator
 
@@ -246,11 +246,11 @@ H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers,
 [Mechanical Design and construction of a Kitchen Island Table](https://mark-fr-dev.github.io/Japanese-table/)
 
 ## References
-|Name|Affiliation|Email|Phone|
+| Name | Affiliation | Email | Phone |
 |--- |---        |---  |---  |
-|Mr Chris de Wet|Walter Kentridge Studios, South Africa|chriswaldo@wkentridge.com|+27 72 922 8588|
-|Mr Peter Bosscha|CSIR South Africa|pbosscha@csir.co.za|+27 83 460 8523|
-|Dr Kevin Land|University of Pretoria, South Africa|kevin.land202@gmail.com|+27 83 290 6376|
-|Mr W Piel|Orica Mining Services, Europe|Walter.piel@orica.com||
-|Assc Prof Szu-Hsien Yu|Taiwan National Yilan University 國立宜蘭大學|shyu0918@gmail.com|+88639317213|
+| Mr Chris de Wet | Walter Kentridge Studios, South Africa | chriswaldo@wkentridge.com | +27 72 922 8588 |
+| Mr Peter Bosscha | CSIR South Africa | pbosscha@csir.co.za | +27 83 460 8523 |
+| Dr Kevin Land | University of Pretoria, South Africa | kevin.land202@gmail.com | +27 83 290 6376 |
+| Mr W Piel | Orica Mining Services, Europe | Walter.piel@orica.com |   |
+| Assc Prof Szu-Hsien Yu | Taiwan National Yilan University 國立宜蘭大學 | shyu0918@gmail.com | +88639317213 |
 
