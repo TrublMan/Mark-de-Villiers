@@ -18,7 +18,7 @@
 
 # Current and Recent Design Projects
 
-[Piano Player - a Mechatronics Design](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+[Piano Player - a Mechatronics Design](https://mark-fr-dev.github.io/Player-piano/)
 
 ---
 
