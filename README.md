@@ -1,6 +1,6 @@
 # Mark de Villiers
 
-> This page is a work in progress, if some links don't work please go to http://bit.ly/3sfvUKK for another version hosted on notion.so.
+> This page is a work in progress, if some links don't work please go to [my Notion.so site](http://bit.ly/3sfvUKK) for a working version.
 
 > I'm a mechatronics engineer based in Taiwan with over 10 years of experience in research engineering and development roles. I have more recently been involved in education in Taiwan.
 
