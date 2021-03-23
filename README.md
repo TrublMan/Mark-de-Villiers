@@ -1,13 +1,10 @@
 # Mark de Villiers
 
-> This page is a work in progress, if some links don't work please go to http://bit.ly/3sfvUKK for another version hosted on notion.so.
+> This page is a work in progress, if some links don't work please go to [my Notion.so site](http://bit.ly/3sfvUKK) for a working version.
 
 > I'm a mechatronics engineer based in Taiwan with over 10 years of experience in research engineering and development roles. I have more recently been involved in education in Taiwan.
 
 > I am dedicated and hard working. I enjoy working as a team leader or as a team member. I also like to plan and execute projects on my own.
-
-
-<img src="https://github.com/Mark-fr-dev/Mark-de-Villiers/blob/99a0d5f366a24000de19d0fbbaf89f5fe2111933/Mark/Mechanical/Japanese_table20201110_0067.jpg" class="img-responsive" alt="" width=500>
 
 # ☎️ Contact information
 
@@ -35,7 +32,7 @@
 
     *January 2019 - January 2020*
 
-    Design and construction of a prototype piano playing robot for a possible future exhibition by the client. See: [Piano Player](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+    Design and construction of a prototype piano playing robot for a possible future exhibition by the client. See: [Piano Player](https://mark-fr-dev.github.io/Player-piano/)
 
 ## Manager and Administrator
 
@@ -145,17 +142,17 @@
 
 Experienced in the use of Altium Designer and Kicad. Good analogue electronics design experience. Worked on many PCB designs using onboard Atmel microcontrollers, including testers for the electronic detonator industry,  various interfaces for robotics projects and a resonant charging circuits for a piezoelectric actuators. 
 
-[Servo Controller PCB Design](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+[Servo Controller PCB Design](https://mark-fr-dev.github.io/Player-piano/)
 
 ### Mechanical Design 🦾
 
 Experienced in the use of Solidworks and Fusion 360. Used rapid prototyping techniques such as 3D polymer printing, laser sintering and laser cutting. Designed automated piano player. Designed omnidirectional mobile service robot.
 
-[Piano Player Mechanical Design](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+[Piano Player Mechanical Design](https://mark-fr-dev.github.io/Player-piano/)
 
 ### Embedded Software Design 💾
 
-Wrote C++ embedded software for microcontrollers used on various boards, most recently on the [🎹Piano Player Project.](Piano%20Player%20-%20a%20Mechatronics%20Design%20e9eb46d845854e729e08940983d9067d.md)
+Wrote C++ embedded software for microcontrollers used on various boards, most recently on the [🎹Piano Player Project.](https://mark-fr-dev.github.io/Player-piano/)
 
 ### Software Design 🖥️
 
@@ -243,14 +240,15 @@ H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers,
 
 ## Work Related Hobbies
 
-[Mechanical Design and construction of a Kitchen Island Table](https://mark-fr-dev.github.io/Japanese_table/)
+[Mechanical Design and construction of a Kitchen Island Table](https://mark-fr-dev.github.io/Japanese-table/)
 
 ## References
-|Name|Affiliation|Email|Phone|
-|---|---|---|---|
-|Mr Chris de Wet|"Walter Kentridge Studios "|chriswaldo@wkentridge.com|+27 72 922 8588|
-|Mr Peter Bosscha|"CSIR South Africa "|pbosscha@csir.co.za|+27 83 460 8523|
-|Dr Kevin Land|"University of Pretoria South Africa"|kevin.land202@gmail.com|+27 83 290 6376|
-|Mr W Piel|"Orica Mining Services Europe "|Walter.piel@orica.com||
-|Assc Prof Szu-Hsien Yu|Taiwan National Yilan University 國立宜蘭大學|shyu0918@gmail.com|+88639317213|
+
+| Name | Affiliation | Email | Phone |
+|:-- |---        |---  |---  |
+| Mr Chris de Wet | Walter Kentridge Studios South Africa | chriswaldo@wkentridge.com | +27 72 922 8588 |
+| Mr Peter Bosscha | CSIR South Africa | pbosscha@csir.co.za | +27 83 460 8523 |
+| Dr Kevin Land | University of Pretoria, South Africa | kevin.land202@gmail.com | +27 83 290 6376 |
+| Mr W Piel | Orica Mining Services, Europe | Walter.piel@orica.com |   |
+| Assc Prof Szu-Hsien Yu | Yilan University 國立宜蘭大學 | shyu0918@gmail.com | +88639317213 |
 
