@@ -248,10 +248,10 @@ H.M. Cele, V. Ojijo, H. Chen, S. Kumar, K. Land, T. Joubert, M.F.R. de Villiers,
 ## References
 
 | Name | Affiliation | Email | Phone |
-|--- |---        |---  |---  |
-| Mr Chris de Wet | Walter Kentridge Studios, South Africa | chriswaldo@wkentridge.com | +27 72 922 8588 |
+|:-- |---        |---  |---  |
+| Mr Chris de Wet | Walter Kentridge Studios South Africa | chriswaldo@wkentridge.com | +27 72 922 8588 |
 | Mr Peter Bosscha | CSIR South Africa | pbosscha@csir.co.za | +27 83 460 8523 |
 | Dr Kevin Land | University of Pretoria, South Africa | kevin.land202@gmail.com | +27 83 290 6376 |
 | Mr W Piel | Orica Mining Services, Europe | Walter.piel@orica.com |   |
-| Assc Prof Szu-Hsien Yu | Taiwan National Yilan University 國立宜蘭大學 | shyu0918@gmail.com | +88639317213 |
+| Assc Prof Szu-Hsien Yu | Yilan University 國立宜蘭大學 | shyu0918@gmail.com | +88639317213 |
 
