@@ -28,7 +28,7 @@
 
 ## Freelance Mechatronics Design Engineer
 
-- William Kentridge Studios, *Johannesburg, South Africa (Remote Taiwan)*
+- [William Kentridge Studios](https://www.kentridge.studio), *Johannesburg, South Africa (Remote Taiwan)*
 
     *January 2019 - January 2020*
 
